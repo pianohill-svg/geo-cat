@@ -1,4 +1,4 @@
-"ï»¿geoname_id","name","parent_id","level","feature_code","country_code"
+"geoname_id","name","parent_id","level","feature_code","country_code"
 146669,Cyprus,,1,PCLI,CY
 146383,Lemesos,146669,2,ADM1,CY
 10346956,Korfí,146383,3,ADM2,CY

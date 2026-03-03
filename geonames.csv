@@ -1,4 +1,9 @@
 "geoname_id","name","parent_id","level","feature_code","country_code"
 146669,Cyprus,,1,PCLI,CY
 146383,Lemesos,146669,2,ADM1,CY
-10346956,Korfí,146383,3,ADM2,CY
+10346956,KorfÃ­,146383,3,ADM2,CY
+2077456,Australia,,1,PCLI,AU
+2155400,New South Wales,2077456,2,ADM1,AU
+12047275,Inner West,2155400,3,ADM2,AU
+2147714,Sydney,12047275,4,PPLA,AU
+8348154,Petersham,2147714,5,PPLX,AU

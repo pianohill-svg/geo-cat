@@ -1,0 +1,5 @@
+story_id,title,question,photo_required,location,author_email
+community-photo,Share a photo,What's happening in your neighbourhood?,yes,,submissions@photonews.co.nz
+hardest-part,Hardest part of business,What was the hardest part about starting your own business?,yes,,submissions@photonews.co.nz
+nz-health,NZ Health Crisis,How has the health crisis affected your community?,yes,2186224,submissions@photonews.co.nz
+text-story,Quick update,What's on your mind?,no,,submissions@photonews.co.nz

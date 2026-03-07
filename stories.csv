@@ -1,5 +1,7 @@
-story_id,title,question,photo_required,question2,photo2,contact,location,author_email
-community-photo,Share a photo,What's happening in your neighbourhood?,yes,,no,no,,submissions@photonews.co.nz
-hardest-part,Hardest part of business,What was the hardest part about starting your own business?,yes,Any advice for others?,no,yes,,submissions@photonews.co.nz
-nz-health,NZ Health Crisis,How has the health crisis affected your community?,yes,,no,no,2186224,health@photonews.co.nz
-quick-update,Quick update,What's on your mind?,no,,no,no,,submissions@photonews.co.nz
+story_id,title_label,feat_caption,button_title,contact,location,author_email,p1,p1_req,t1,t1_req,rank1,p2,p2_req,t2,t2_req,rank2,p3,p3_req,t3,t3_req,rank3
+community-photo,,,,,,submissions@photonews.co.nz,Upload your photo,yes,What's happening in your neighbourhood?,yes,1,,,,,,,,,,
+hardest-part,,Caption this image,,yes,,submissions@photonews.co.nz,Upload a photo,yes,What was the hardest part about starting your own business?,yes,1,,no,Any advice for others?,,2,,,,
+buy-music,Song title,,,,,music@photonews.co.nz,Upload album art,yes,Tell us about this track,yes,1,,,,,,,,,,
+for-sale,What are you selling?,Photo caption,View listing,yes,,submissions@photonews.co.nz,Upload main photo,yes,Describe what you're selling,yes,1,Upload another photo,,Any other details?,,2,,,,
+quick-update,,,,,,submissions@photonews.co.nz,,,What's on your mind?,yes,1,,,,,,,,,,
+nz-health,,,,,2186224,health@photonews.co.nz,Upload a photo,,How has the health crisis affected your community?,yes,1,,no,What support do you need?,,2,,,,

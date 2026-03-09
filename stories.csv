@@ -1,2 +1,2 @@
 story_id,title_label,feat_caption,button_title,contact,location,author_email,p1,p1_req,t1,t1_req,rank1,p2,p2_req,t2,t2_req,rank2,p3,p3_req,t3,t3_req,rank3
-nz-health-crisis,Story title,Photo caption,,,2186224,nzhealthcrisis@invalid.email,Upload a photo of yourself (or something relevant to your story),yes,What’s your experience been with the New Zealand health system?,yes,1,,,,,,,,,,
+nz-health-crisis,Story title,Photo caption,,,2186224,nzhealthcrisis@invalid.email,Upload a photo of yourself (or something relevant to your story),yes,Short description/excerpt:,yes,1,,,What's your experience been with Aotearoa's health system?,,,,,,,
